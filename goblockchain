@@ -1,0 +1,7 @@
+goblockchain/
+├── main.go
+├── blockchain.go
+├── pow.go
+├── api.go
+├── utils.go
+├── README.md
